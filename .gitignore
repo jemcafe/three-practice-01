@@ -4,4 +4,5 @@
 yarn-debug.log*
 yarn-error.log*
 
+# threejs minified
 /js/three/three.min.js
