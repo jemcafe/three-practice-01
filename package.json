@@ -1,0 +1,12 @@
+{
+  "name": "three-practice-01",
+  "version": "1.0.0",
+  "description": "Threejs practice",
+  "main": "index.js",
+  "repository": "https://github.com/jemcafe/three-practice-01.git",
+  "author": "Jemmaine",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^4.19.1"
+  }
+}
